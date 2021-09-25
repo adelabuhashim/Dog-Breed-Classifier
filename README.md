@@ -1,5 +1,6 @@
 # Dog Breed Classifier
 ![dbc](https://miro.medium.com/max/1200/0*ey6drJha0Jol63fM)
+[blogpost](https://adelabuhashim.medium.com/dog-breed-classifier-3fc658e05282)
 
  This project uses Convolutional Neural Networks (CNNs)! In this project.  
 
