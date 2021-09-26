@@ -21,4 +21,25 @@ I will build a pipeline to process real-world, user-supplied images. Given an im
    - Write My Algorithm
    - Test My Algorithm
 
+ 
+## Libraries
+- numpy
+- glob
+- cv2                
+- matplotlib
+- tqdm
+- torch
+- torchvision
+- PIL 
+- os
+- re
 
+## Results 
+### Human Model (CV)
+- human_files have 98% of human face 
+- dog_files have 17% of human face
+### Dog classifier Model (CNN ResNET50)
+- human_files have 0% of dog face
+- dog_files have 93% of dog face
+- Test Loss: 0.516951
+- Test Accuracy: 85% (714/836)
